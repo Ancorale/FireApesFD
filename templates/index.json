@@ -1,0 +1,307 @@
+{
+  "sections": {
+    "1659628935248c944b": {
+      "type": "multicolumn",
+      "blocks": {
+        "1659628935173598a0-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/budda.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1659628935173598a0-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/beezy.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1659628935173598a0-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fat.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d4ef2647-042d-4acb-9ef6-606b15a7c365": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/doc.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d6aa861b-a025-4904-a61b-8d03616ecc34": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/deej.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1659628935173598a0-0",
+        "1659628935173598a0-1",
+        "1659628935173598a0-2",
+        "d4ef2647-042d-4acb-9ef6-606b15a7c365",
+        "d6aa861b-a025-4904-a61b-8d03616ecc34"
+      ],
+      "settings": {
+        "title": "MEET THE KREW",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 40
+      }
+    },
+    "1660095493f545b8ba": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"spacer\"> <\/div>",
+        "color_scheme": "accent-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "165964669085257937": {
+      "type": "collection-list",
+      "blocks": {
+        "165964669063a3ce34-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ccfd-duty-shirts"
+          }
+        },
+        "165964669063a3ce34-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lvfr"
+          }
+        },
+        "165964669063a3ce34-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hfd"
+          }
+        },
+        "3787f8f4-b26a-4ed3-9950-9a25b664f24c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "nlvfr"
+          }
+        }
+      },
+      "block_order": [
+        "165964669063a3ce34-0",
+        "165964669063a3ce34-1",
+        "165964669063a3ce34-2",
+        "3787f8f4-b26a-4ed3-9950-9a25b664f24c"
+      ],
+      "settings": {
+        "title": "DUTY SHIRTS",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "accent-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "1661207250df4b5754": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"spacer\"> <\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1661207370a9f55e07": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"spacer\"> <\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "1660949035f196f74b": {
+      "type": "multicolumn",
+      "blocks": {
+        "16609490351178e4c0-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pinup.png",
+            "title": "",
+            "text": "<p><a href=\"https:\/\/fireapesfd.com\/collections\/lv-pin-up\" target=\"_blank\" title=\"https:\/\/fireapesfd.com\/collections\/lv-pin-up\"> <\/a><\/p>",
+            "link_label": "LV PIN-UP",
+            "link": "shopify:\/\/products\/currently-unavailable"
+          }
+        },
+        "16609490351178e4c0-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sp1.png",
+            "title": "",
+            "text": "",
+            "link_label": "1908 sp#1",
+            "link": "shopify:\/\/products\/currently-unavailable"
+          }
+        },
+        "16609490351178e4c0-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/theroof.png",
+            "title": "",
+            "text": "",
+            "link_label": "THE roof is on Fire",
+            "link": "shopify:\/\/products\/currently-unavailable"
+          }
+        }
+      },
+      "block_order": [
+        "16609490351178e4c0-0",
+        "16609490351178e4c0-1",
+        "16609490351178e4c0-2"
+      ],
+      "settings": {
+        "title": "OFF-DUTY SHIRTS",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16600890857df6d66a": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"spacer\"> <\/div>",
+        "color_scheme": "accent-1",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "1660086974056ddb09": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"spacer\"> <\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1661205021dc147d32": {
+      "type": "multicolumn",
+      "blocks": {
+        "16612050215a7c211f-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/St18Customs.png",
+            "title": "",
+            "text": "",
+            "link_label": "CUSTOM ON-DUTY SHIRTS",
+            "link": "shopify:\/\/products\/currently-unavailable"
+          }
+        },
+        "16612050215a7c211f-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Web_design_-69.png",
+            "title": "",
+            "text": "",
+            "link_label": "FRAMED PICTURE ART",
+            "link": "shopify:\/\/products\/currently-unavailable"
+          }
+        },
+        "16612050215a7c211f-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/summerApetank.png",
+            "title": "",
+            "text": "",
+            "link_label": "CUSTOM DESIGNS",
+            "link": "shopify:\/\/pages\/consultation"
+          }
+        }
+      },
+      "block_order": [
+        "16612050215a7c211f-0",
+        "16612050215a7c211f-1",
+        "16612050215a7c211f-2"
+      ],
+      "settings": {
+        "title": "CUSTOM ART\/LOGOs",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "166120618617759ad1": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "1659628935248c944b",
+    "1660095493f545b8ba",
+    "165964669085257937",
+    "1661207250df4b5754",
+    "1661207370a9f55e07",
+    "1660949035f196f74b",
+    "16600890857df6d66a",
+    "1660086974056ddb09",
+    "1661205021dc147d32",
+    "166120618617759ad1"
+  ]
+}
