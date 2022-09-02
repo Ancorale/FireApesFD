@@ -182,18 +182,15 @@ div.product__tax.caption.rte
 }
     
 h1.collection-hero__title,
+button.share-button__button,
 #product-grid > li > div > div > div.card__content > div.card__information > div > div,
 div.price__regular > span.price-item.price-item--regular,
+button.shopify-payment-button__more-options,
+div.shopify-payment-button__button.shopify-payment-button__button--branded div div span,
 shopify-payment-terms,
 variant-radios > fieldset,
 div.product-form__input.product-form__quantity,
-button.product-form__submit.button.button--full-width.button--secondary > span,
-div.shopify-payment-button__button.shopify-payment-button__button--branded > div > div > span:nth-child(2),
-button.shopify-payment-button__more-options,
-button.share-button__button,
 div.product__description,
-div.multicolumn-card__info,
-div.multicolumn-card__info > h3,
 #MainContent > div > div.shopify-policy__body,
 #MainContent > div > div.shopify-policy__body > div > h4,
 #MainContent > div > div.shopify-policy__body > div > h5,
@@ -205,6 +202,16 @@ div.rte>h2>a {
   font-family: LatS;
   color: #fff;
   }
+
+button.quantity__button,
+button.shopify-payment-button__button.shopify-payment-button__button--unbranded, 
+button.product-form__submit.button.button--full-width.button--secondary>span,
+div.multicolumn-card__info>h3,
+div.multicolumn-card__info,
+input.quantity__button {
+  font-family: LatS;
+}
+
 
 /* contact form */
 #ContactForm>div.contact__fields>div>label,

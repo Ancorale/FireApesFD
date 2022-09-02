@@ -1,9 +1,9 @@
 {
   "sections": {
-    "1659628935248c944b": {
-      "type": "multicolumn",
+    "16620740233ae36dce": {
+      "type": "krew",
       "blocks": {
-        "1659628935173598a0-0": {
+        "16620740235d2be910-0": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/budda.jpg",
@@ -13,17 +13,7 @@
             "link": ""
           }
         },
-        "1659628935173598a0-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/beezy.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1659628935173598a0-2": {
+        "16620740235d2be910-1": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/fat.jpg",
@@ -33,17 +23,17 @@
             "link": ""
           }
         },
-        "d4ef2647-042d-4acb-9ef6-606b15a7c365": {
+        "16620740235d2be910-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/doc.jpg",
+            "image": "shopify:\/\/shop_images\/beezy.jpg",
             "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "d6aa861b-a025-4904-a61b-8d03616ecc34": {
+        "4fc55030-2453-40f1-910c-66348cbddddf": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/deej.jpg",
@@ -52,14 +42,24 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "102df156-a844-4620-9484-ef1f227ec322": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/doc.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "1659628935173598a0-0",
-        "1659628935173598a0-1",
-        "1659628935173598a0-2",
-        "d4ef2647-042d-4acb-9ef6-606b15a7c365",
-        "d6aa861b-a025-4904-a61b-8d03616ecc34"
+        "16620740235d2be910-0",
+        "16620740235d2be910-1",
+        "16620740235d2be910-2",
+        "4fc55030-2453-40f1-910c-66348cbddddf",
+        "102df156-a844-4620-9484-ef1f227ec322"
       ],
       "settings": {
         "title": "MEET THE KREW",
@@ -122,7 +122,7 @@
         "3787f8f4-b26a-4ed3-9950-9a25b664f24c"
       ],
       "settings": {
-        "title": "DUTY SHIRTS",
+        "title": "DUTY WEAR",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 4,
@@ -192,7 +192,7 @@
         "16609490351178e4c0-2"
       ],
       "settings": {
-        "title": "OFF-DUTY SHIRTS",
+        "title": "OFF-DUTY WEAR",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
@@ -236,7 +236,7 @@
             "title": "",
             "text": "",
             "link_label": "CUSTOM ON-DUTY SHIRTS",
-            "link": "shopify:\/\/products\/currently-unavailable"
+            "link": "shopify:\/\/collections\/custom-on-duty-shirts"
           }
         },
         "16612050215a7c211f-1": {
@@ -249,10 +249,20 @@
             "link": "shopify:\/\/products\/currently-unavailable"
           }
         },
+        "7c93567b-6b1d-4ef2-aa63-f8ada06df99d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bigfoot.png",
+            "title": "",
+            "text": "",
+            "link_label": "CUSTOM APPAREL",
+            "link": "shopify:\/\/collections\/custom-apparel"
+          }
+        },
         "16612050215a7c211f-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/summerApetank.png",
+            "image": "shopify:\/\/shop_images\/blk.forestgreen.logo.png",
             "title": "",
             "text": "",
             "link_label": "CUSTOM DESIGNS",
@@ -263,6 +273,7 @@
       "block_order": [
         "16612050215a7c211f-0",
         "16612050215a7c211f-1",
+        "7c93567b-6b1d-4ef2-aa63-f8ada06df99d",
         "16612050215a7c211f-2"
       ],
       "settings": {
@@ -270,7 +281,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
@@ -293,7 +304,7 @@
     }
   },
   "order": [
-    "1659628935248c944b",
+    "16620740233ae36dce",
     "1660095493f545b8ba",
     "165964669085257937",
     "1661207250df4b5754",

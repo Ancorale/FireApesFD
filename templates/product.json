@@ -85,7 +85,7 @@
           "type": "column",
           "settings": {
             "title": "Delivery and Shipping",
-            "text": "<p>If ordered before Thursday, we'll deliver to you on Friday. <\/p>",
+            "text": "<p><\/p><p>All official dufy apparel is for active-duty personnel only and must be verified before delivery. <\/p><p>Orders submitted by Wednesday will be delivered to stations on following Friday.<\/p>",
             "link_label": "Shipping",
             "link": "shopify:\/\/policies\/shipping-policy"
           }

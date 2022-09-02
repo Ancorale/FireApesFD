@@ -18,7 +18,7 @@ console.log("innerWidth: ", innerWidth);
 
 
 // meet the krew modal
-const images = document.querySelectorAll(".multicolumn-card__image");
+const images = document.querySelectorAll(".krew");
 let imgSrc;
 // get images src onclick
 images.forEach((img) => {
