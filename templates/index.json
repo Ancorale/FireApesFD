@@ -65,7 +65,7 @@
         "title": "MEET THE KREW",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "none",
@@ -155,16 +155,6 @@
     "1660949035f196f74b": {
       "type": "multicolumn",
       "blocks": {
-        "16609490351178e4c0-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/pinup.png",
-            "title": "",
-            "text": "<p><a href=\"https:\/\/fireapesfd.com\/collections\/lv-pin-up\" target=\"_blank\" title=\"https:\/\/fireapesfd.com\/collections\/lv-pin-up\"> <\/a><\/p>",
-            "link_label": "LV PIN-UP",
-            "link": "shopify:\/\/products\/currently-unavailable"
-          }
-        },
         "16609490351178e4c0-1": {
           "type": "column",
           "settings": {
@@ -172,7 +162,7 @@
             "title": "",
             "text": "",
             "link_label": "1908 sp#1",
-            "link": "shopify:\/\/products\/currently-unavailable"
+            "link": "shopify:\/\/collections\/ccfd-duty-shirts-1"
           }
         },
         "16609490351178e4c0-2": {
@@ -182,21 +172,41 @@
             "title": "",
             "text": "",
             "link_label": "THE roof is on Fire",
-            "link": "shopify:\/\/products\/currently-unavailable"
+            "link": "shopify:\/\/collections\/ccfd-duty-shirts-1"
+          }
+        },
+        "16609490351178e4c0-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pinup.png",
+            "title": "",
+            "text": "<p><a href=\"https:\/\/fireapesfd.com\/collections\/lv-pin-up\" target=\"_blank\" title=\"https:\/\/fireapesfd.com\/collections\/lv-pin-up\"> <\/a><\/p>",
+            "link_label": "LV PIN-UP",
+            "link": "shopify:\/\/collections\/ccfd-duty-shirts-1"
+          }
+        },
+        "2cf78006-e3b6-437f-8c24-7c0a6ce65286": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "16609490351178e4c0-0",
         "16609490351178e4c0-1",
-        "16609490351178e4c0-2"
+        "16609490351178e4c0-2",
+        "16609490351178e4c0-0",
+        "2cf78006-e3b6-437f-8c24-7c0a6ce65286"
       ],
       "settings": {
         "title": "OFF-DUTY WEAR",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
@@ -219,6 +229,7 @@
     },
     "1660086974056ddb09": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div class=\"spacer\"> <\/div>",
         "color_scheme": "background-1",
@@ -246,7 +257,7 @@
             "title": "",
             "text": "",
             "link_label": "FRAMED PICTURE ART",
-            "link": "shopify:\/\/products\/currently-unavailable"
+            "link": "shopify:\/\/collections\/framed-picture-art"
           }
         },
         "7c93567b-6b1d-4ef2-aa63-f8ada06df99d": {
@@ -268,20 +279,40 @@
             "link_label": "CUSTOM DESIGNS",
             "link": "shopify:\/\/pages\/consultation"
           }
+        },
+        "ef22ec5e-6716-48f6-9c62-f6595974fe2c": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7d21ecc5-1b9e-4f68-bfcf-85c2df316fae": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "16612050215a7c211f-0",
         "16612050215a7c211f-1",
         "7c93567b-6b1d-4ef2-aa63-f8ada06df99d",
-        "16612050215a7c211f-2"
+        "16612050215a7c211f-2",
+        "ef22ec5e-6716-48f6-9c62-f6595974fe2c",
+        "7d21ecc5-1b9e-4f68-bfcf-85c2df316fae"
       ],
       "settings": {
         "title": "CUSTOM ART\/LOGOs",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 4,
+        "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
