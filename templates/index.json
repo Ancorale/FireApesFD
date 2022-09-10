@@ -78,6 +78,88 @@
         "padding_bottom": 40
       }
     },
+    "1662678860515e6e9e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"spacer\"> <\/div>",
+        "color_scheme": "accent-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "166267794276554101": {
+      "type": "featured-product",
+      "blocks": {
+        "16626779423399be94-0": {
+          "type": "text",
+          "settings": {
+            "text": "Featured Today!",
+            "text_style": "uppercase"
+          }
+        },
+        "16626779423399be94-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h0"
+          }
+        },
+        "16626779423399be94-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "16626779423399be94-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16626779423399be94-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16626779423399be94-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "16626779423399be94-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "16626779423399be94-7": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "16626779423399be94-0",
+        "16626779423399be94-1",
+        "16626779423399be94-2",
+        "16626779423399be94-3",
+        "16626779423399be94-4",
+        "16626779423399be94-5",
+        "16626779423399be94-6",
+        "16626779423399be94-7"
+      ],
+      "settings": {
+        "product": "bigfoot",
+        "color_scheme": "background-1",
+        "secondary_background": true,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "1660095493f545b8ba": {
       "type": "custom-liquid",
       "settings": {
@@ -336,6 +418,8 @@
   },
   "order": [
     "16620740233ae36dce",
+    "1662678860515e6e9e",
+    "166267794276554101",
     "1660095493f545b8ba",
     "165964669085257937",
     "1661207250df4b5754",

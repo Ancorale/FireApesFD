@@ -182,6 +182,7 @@ div.product__tax.caption.rte
 }
     
 h1.collection-hero__title,
+h2.product__title.h0,
 button.share-button__button,
 #product-grid > li > div > div > div.card__content > div.card__information > div > div,
 div.price__regular > span.price-item.price-item--regular,
@@ -198,7 +199,8 @@ div.contact,
 .collection-list-title,
 .rich-text__blocks > h2, 
 h2.title.title-wrapper--no-top-margin.h2,
-div.rte>h2>a {
+div.rte>h2>a,
+a.link.product__view-details.animate-arrow {
   font-family: LatS;
   color: #fff;
   }
@@ -225,7 +227,8 @@ input.quantity__button {
 section.shopify-section.section.section-collection-list div.color-accent-1.gradient,
   section.section.section div.multicolumn.color-accent-1.gradient.background-none, 
   #shopify-section-template--16272524738789__166015441777248882>div>div,
-  #shopify-section-template--16272524738789__166060151017f1104d>div>div {
+  #shopify-section-template--16272524738789__166060151017f1104d>div>div,
+  section.color-background-1.background-secondary {
   background-image: linear-gradient(to right,rgba(255, 0, 0, 0), rgba(1, 1, 18, 1));
   opacity: .9;
 }
