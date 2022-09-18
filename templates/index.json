@@ -1,5 +1,87 @@
 {
   "sections": {
+    "166267794276554101": {
+      "type": "featured-product",
+      "blocks": {
+        "16626779423399be94-0": {
+          "type": "text",
+          "settings": {
+            "text": "Featured Today!",
+            "text_style": "uppercase"
+          }
+        },
+        "16626779423399be94-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h0"
+          }
+        },
+        "16626779423399be94-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "16626779423399be94-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16626779423399be94-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16626779423399be94-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "16626779423399be94-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "16626779423399be94-7": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "16626779423399be94-0",
+        "16626779423399be94-1",
+        "16626779423399be94-2",
+        "16626779423399be94-3",
+        "16626779423399be94-4",
+        "16626779423399be94-5",
+        "16626779423399be94-6",
+        "16626779423399be94-7"
+      ],
+      "settings": {
+        "product": "bigfoot",
+        "color_scheme": "background-1",
+        "secondary_background": true,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "1662678860515e6e9e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"spacer\"> <\/div>",
+        "color_scheme": "accent-1",
+        "padding_top": 100,
+        "padding_bottom": 0
+      }
+    },
     "16620740233ae36dce": {
       "type": "krew",
       "blocks": {
@@ -74,90 +156,8 @@
         "color_scheme": "accent-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 0,
+        "padding_top": 40,
         "padding_bottom": 40
-      }
-    },
-    "1662678860515e6e9e": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"spacer\"> <\/div>",
-        "color_scheme": "accent-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "166267794276554101": {
-      "type": "featured-product",
-      "blocks": {
-        "16626779423399be94-0": {
-          "type": "text",
-          "settings": {
-            "text": "Featured Today!",
-            "text_style": "uppercase"
-          }
-        },
-        "16626779423399be94-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h0"
-          }
-        },
-        "16626779423399be94-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "16626779423399be94-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "16626779423399be94-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "16626779423399be94-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "16626779423399be94-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "16626779423399be94-7": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "16626779423399be94-0",
-        "16626779423399be94-1",
-        "16626779423399be94-2",
-        "16626779423399be94-3",
-        "16626779423399be94-4",
-        "16626779423399be94-5",
-        "16626779423399be94-6",
-        "16626779423399be94-7"
-      ],
-      "settings": {
-        "product": "bigfoot",
-        "color_scheme": "background-1",
-        "secondary_background": true,
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "1660095493f545b8ba": {
@@ -165,7 +165,7 @@
       "settings": {
         "custom_liquid": "<div class=\"spacer\"> <\/div>",
         "color_scheme": "accent-1",
-        "padding_top": 0,
+        "padding_top": 100,
         "padding_bottom": 0
       }
     },
@@ -212,12 +212,13 @@
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 20
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "1661207250df4b5754": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div class=\"spacer\"> <\/div>",
         "color_scheme": "background-1",
@@ -229,9 +230,9 @@
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "<div class=\"spacer\"> <\/div>",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "padding_top": 100,
-        "padding_bottom": 100
+        "padding_bottom": 0
       }
     },
     "1660949035f196f74b": {
@@ -240,55 +241,23 @@
         "16609490351178e4c0-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sp1.png",
-            "title": "",
-            "text": "",
-            "link_label": "1908 sp#1",
-            "link": "shopify:\/\/collections\/ccfd-duty-shirts-1"
-          }
-        },
-        "16609490351178e4c0-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/theroof.png",
-            "title": "",
-            "text": "",
-            "link_label": "THE roof is on Fire",
-            "link": "shopify:\/\/collections\/ccfd-duty-shirts-1"
-          }
-        },
-        "16609490351178e4c0-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/pinup.png",
-            "title": "",
-            "text": "<p><a href=\"https:\/\/fireapesfd.com\/collections\/lv-pin-up\" target=\"_blank\" title=\"https:\/\/fireapesfd.com\/collections\/lv-pin-up\"> <\/a><\/p>",
-            "link_label": "LV PIN-UP",
-            "link": "shopify:\/\/collections\/ccfd-duty-shirts-1"
-          }
-        },
-        "2cf78006-e3b6-437f-8c24-7c0a6ce65286": {
-          "type": "column",
-          "settings": {
+            "image": "shopify:\/\/shop_images\/Off_Duty.png",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/ccfd-duty-shirts-1"
           }
         }
       },
       "block_order": [
-        "16609490351178e4c0-1",
-        "16609490351178e4c0-2",
-        "16609490351178e4c0-0",
-        "2cf78006-e3b6-437f-8c24-7c0a6ce65286"
+        "16609490351178e4c0-1"
       ],
       "settings": {
         "title": "OFF-DUTY WEAR",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 4,
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
@@ -296,8 +265,8 @@
         "color_scheme": "accent-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 40,
+        "padding_bottom": 0
       }
     },
     "16600890857df6d66a": {
@@ -306,7 +275,7 @@
         "custom_liquid": "<div class=\"spacer\"> <\/div>",
         "color_scheme": "accent-1",
         "padding_top": 100,
-        "padding_bottom": 100
+        "padding_bottom": 0
       }
     },
     "1660086974056ddb09": {
@@ -403,7 +372,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 40,
-        "padding_bottom": 40
+        "padding_bottom": 0
       }
     },
     "166120618617759ad1": {
@@ -417,9 +386,9 @@
     }
   },
   "order": [
-    "16620740233ae36dce",
-    "1662678860515e6e9e",
     "166267794276554101",
+    "1662678860515e6e9e",
+    "16620740233ae36dce",
     "1660095493f545b8ba",
     "165964669085257937",
     "1661207250df4b5754",
