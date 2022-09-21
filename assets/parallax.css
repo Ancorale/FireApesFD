@@ -267,6 +267,11 @@ div.card__information div.price{
 
 /* media queries */
 @media screen and (min-width: 990px) {
+
+#Slider-template--16272524738789__1660949035f196f74b div.multicolumn-card.content-container {
+  width: 47em !important;
+}
+
   .header--middle-left {
     display:flex;
     justify-content: space-between;
