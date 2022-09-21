@@ -156,7 +156,9 @@ div.footer__blocks-wrapper.grid.grid--1-col.grid--2-col.grid--4-col-tablet > div
   height: 50rem;
 }
     
-/* Products */   
+/* Products */
+h1.title.title--primary,
+h2.title.title-wrapper--no-top-margin.h1,
 .caption-with-letter-spacing,
 #FacetsWrapperDesktop,
 #SortBy,

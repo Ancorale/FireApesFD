@@ -265,7 +265,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 40,
-        "padding_bottom": 40
+        "padding_bottom": 0
       }
     },
     "16600890857df6d66a": {
@@ -273,8 +273,8 @@
       "settings": {
         "custom_liquid": "<div class=\"spacer\"> <\/div>",
         "color_scheme": "accent-1",
-        "padding_top": 100,
-        "padding_bottom": 100
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "1660086974056ddb09": {
@@ -307,7 +307,7 @@
             "title": "",
             "text": "",
             "link_label": "FRAMED PICTURE ART",
-            "link": "shopify:\/\/collections\/framed-picture-art"
+            "link": "shopify:\/\/collections"
           }
         },
         "7c93567b-6b1d-4ef2-aa63-f8ada06df99d": {
@@ -327,7 +327,7 @@
             "title": "",
             "text": "",
             "link_label": "CUSTOM DESIGNS",
-            "link": "shopify:\/\/pages\/consultation"
+            "link": "shopify:\/\/pages\/custom"
           }
         },
         "ef22ec5e-6716-48f6-9c62-f6595974fe2c": {
