@@ -151,7 +151,7 @@
             "type": "text",
             "settings": {
               "heading": "",
-              "subtext": "<p><a href=\"https:\/\/fireapesfd.myshopify.com\/admin\/themes\/134094782693\/editor?previewPath=%2Fpolicies%2Fprivacy-policy\" target=\"_blank\" title=\"privacy-policy\"><strong>Policies<\/strong><\/a><\/p>"
+              "subtext": "<p><a href=\"\/policies\/privacy-policy\" target=\"_blank\" title=\"Privacy Policy\"><strong>Policies<\/strong><\/a><\/p>"
             }
           },
           "28a47eb4-7be7-45ad-82eb-8e8e0c480a16": {
