@@ -163,7 +163,8 @@ h2.title.title-wrapper--no-top-margin.h1,
 #FacetsWrapperDesktop,
 #SortBy,
 #ProductCountDesktop,
-div.shopify-policy__title > h1 {
+div.shopify-policy__title > h1,
+h1.cart__empty-text {
   font-family: LatXE;
   color: #fff
 } 
@@ -177,8 +178,8 @@ h1.main-page-title.page-title.h0 {
 div.product__title > h1,
 #verticalTitle,
 #FacetFiltersForm > div.facet-filters.sorting.caption > div > h2 > label,
-div.product__tax.caption.rte
- {
+div.product__tax.caption.rte,
+.shopify-cleanslate {
   font-family: LatXC;
   color: #fff;
 }
@@ -202,7 +203,22 @@ div.contact,
 .rich-text__blocks > h2, 
 h2.title.title-wrapper--no-top-margin.h2,
 div.rte>h2>a,
-a.link.product__view-details.animate-arrow {
+a.link.product__view-details.animate-arrow,
+div.appstle_sub_widget,
+td.cart-item__details,
+td.cart-item__details a,
+td.cart-item__totals.right.small-hide>div.cart-item__price-wrapper>span,
+#main-cart-footer>div>div>div>div.js-contents,
+div.collection__title.title-wrapper h2,
+div.title-wrapper-with-link a,
+.totals__subtotal,
+h2.cart__login-title,
+p.cart__login-paragraph,
+#cart-notification>div.cart-notification__links>button,
+#cart-notification>div.cart-notification__header>h2,
+#cart-notification-product div.product-option dd,
+#cart-notification-product div.product-option dt,
+#shopify-section-template--16625775509733__main>div>div>form {
   font-family: LatS;
   color: #fff;
   }
@@ -212,7 +228,7 @@ button.shopify-payment-button__button.shopify-payment-button__button--unbranded,
 button.product-form__submit.button.button--full-width.button--secondary>span,
 div.multicolumn-card__info>h3,
 div.multicolumn-card__info,
-input.quantity__button {
+.quantity__input {
   font-family: LatS;
 }
 
@@ -220,7 +236,12 @@ input.quantity__button {
 /* contact form */
 #ContactForm>div.contact__fields>div>label,
 #ContactForm>div>label,
-#ContactForm>div.contact__button>button {
+#ContactForm>div.contact__button>button,
+.product-form__submit,
+div.cart-notification__links>a,
+#cart-notification-form>button,
+#checkout,
+div.cart__warnings a {
   font-family: LatS;
   color: #000;
 }
@@ -229,23 +250,35 @@ input.quantity__button {
 section.shopify-section.section.section-collection-list div.color-accent-1.gradient,
 #shopify-section-template--16272524738789__166015441777248882>div>div,
 #shopify-section-template--16272524738789__166060151017f1104d>div>div,
-section.color-background-1.background-secondary {
-  background-image: linear-gradient(to right,rgba(255, 0, 0, 0), rgba(1, 1, 18, 1));
-  opacity: .9;
-}
+section.color-background-1.background-secondary,section.section.section div.multicolumn.color-accent-1.gradient.background-none {
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0), rgba(1, 1, 18, 1));
+    opacity: .9;
+  }
 
-/* off-duty wear */
-section.section.section div.multicolumn.color-accent-1.gradient.background-none {
-  background-image: linear-gradient(to right, rgba(255, 0, 0, 0), rgba(1, 1, 18, 1));
-  opacity: .9;
+div#cart-notification {
+  background-image: linear-gradient(to right, rgba(1, 1, 18, .9), rgba(1, 1, 18, 1));
 }
 
 form#FacetFiltersForm h2,
 form#FacetFiltersForm summary,
 #SortBy,
 div.card__information h3 a,
-div.card__information div.price{
-  color: #fff;
+div.card__information div.price,
+div.appstle_tooltip_wrapper,
+#Remove-1>a>svg {
+  color: #fff !important;
+}
+
+.appstle_circle {
+  border: 2px solid #fff !important;
+}
+
+.appstle_dot {
+  background-color: #fff !important;
+}
+
+.tooltip_subscription_svg {
+  fill: #fff !important;
 }
 
 #SortBy option {
