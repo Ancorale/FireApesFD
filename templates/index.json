@@ -313,7 +313,7 @@
         "7c93567b-6b1d-4ef2-aa63-f8ada06df99d": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bigfoot.png",
+            "image": "shopify:\/\/shop_images\/yhetti.png",
             "title": "",
             "text": "",
             "link_label": "CUSTOM APPAREL",
@@ -333,13 +333,34 @@
         "ef22ec5e-6716-48f6-9c62-f6595974fe2c": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/picdklefink.png",
             "title": "",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "PICKLE BALL",
+            "link": "shopify:\/\/collections\/pickle-ball"
           }
         },
         "7d21ecc5-1b9e-4f68-bfcf-85c2df316fae": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/santa.png",
+            "title": "",
+            "text": "",
+            "link_label": "CHRISTMAS",
+            "link": "shopify:\/\/collections\/christmas"
+          }
+        },
+        "26dbeded-1bbc-47d6-b23b-da9e57aa084a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bigfoot.png",
+            "title": "",
+            "text": "",
+            "link_label": "MOVEMBER",
+            "link": "shopify:\/\/collections\/movember"
+          }
+        },
+        "469adc6b-0311-45de-b275-ec09f9af7555": {
           "type": "column",
           "settings": {
             "title": "",
@@ -355,7 +376,9 @@
         "7c93567b-6b1d-4ef2-aa63-f8ada06df99d",
         "16612050215a7c211f-2",
         "ef22ec5e-6716-48f6-9c62-f6595974fe2c",
-        "7d21ecc5-1b9e-4f68-bfcf-85c2df316fae"
+        "7d21ecc5-1b9e-4f68-bfcf-85c2df316fae",
+        "26dbeded-1bbc-47d6-b23b-da9e57aa084a",
+        "469adc6b-0311-45de-b275-ec09f9af7555"
       ],
       "settings": {
         "title": "CUSTOM ART\/LOGOs",
