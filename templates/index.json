@@ -313,7 +313,7 @@
         "7c93567b-6b1d-4ef2-aa63-f8ada06df99d": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/yhetti.png",
+            "image": "shopify:\/\/shop_images\/bigfoot.png",
             "title": "",
             "text": "",
             "link_label": "CUSTOM APPAREL",
@@ -353,7 +353,7 @@
         "26dbeded-1bbc-47d6-b23b-da9e57aa084a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bigfoot.png",
+            "image": "shopify:\/\/shop_images\/mo-bigfoot-logo.png",
             "title": "",
             "text": "",
             "link_label": "MOVEMBER",

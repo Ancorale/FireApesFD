@@ -311,6 +311,9 @@
                   </div>
                 {%- endif -%}
               </div>
+
+{% render 'paymentIcons' %}
+
             {%- when 'custom_liquid' -%}
               {{ block.settings.custom_liquid }}
             {%- when 'rating' -%}
