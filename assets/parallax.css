@@ -164,7 +164,10 @@ h2.title.title-wrapper--no-top-margin.h1,
 #SortBy,
 #ProductCountDesktop,
 div.shopify-policy__title > h1,
-h1.cart__empty-text {
+h1.cart__empty-text,
+h1#login,
+#MainContent>div>div h1,
+#MainContent>div>div:nth-child(2)>div:nth-child(1)>h2 {
   font-family: LatXE;
   color: #fff
 } 
@@ -218,7 +221,15 @@ p.cart__login-paragraph,
 #cart-notification>div.cart-notification__header>h2,
 #cart-notification-product div.product-option dd,
 #cart-notification-product div.product-option dt,
-#shopify-section-template--16625775509733__main>div>div>form {
+#shopify-section-template--16625775509733__main>div>div>form,
+#customer_login h2,
+#MainContent div p,
+div.errors,
+#create_customer>h2,
+#create_customer>ul>li,
+div.customer.account,
+#MainContent>div>h1,
+#MainContent>div>div:nth-child(2)>div:nth-child(2)>h2 {
   font-family: LatS;
   color: #fff;
   }
@@ -228,7 +239,12 @@ button.shopify-payment-button__button.shopify-payment-button__button--unbranded,
 button.product-form__submit.button.button--full-width.button--secondary>span,
 div.multicolumn-card__info>h3,
 div.multicolumn-card__info,
-.quantity__input {
+.quantity__input,
+#customer_login div label,
+#customer_login a,
+form#create_customer,
+div.customer.addresses a,
+#MainContent>div>ul>li:nth-child(2)>h2 {
   font-family: LatS;
 }
 
@@ -241,7 +257,15 @@ div.multicolumn-card__info,
 div.cart-notification__links>a,
 #cart-notification-form>button,
 #checkout,
-div.cart__warnings a {
+div.cart__warnings a,
+#customer_login>button,
+#MainContent>div>form>input.shopify-challenge__button.btn,
+#create_customer>button,
+#MainContent>div>div>button,
+button[aria-label="Edit address 1"],
+button[aria-label="Delete 1"],
+button[aria-label="Delete 2"],
+button[aria-label="Edit address 2"] {
   font-family: LatS;
   color: #000;
 }
