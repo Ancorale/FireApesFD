@@ -1,5 +1,33 @@
 {
   "sections": {
+    "e646e052-c3b5-43a5-ad92-7da798d9306e": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured Today",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "homepage-featured",
+        "products_to_show": 2,
+        "columns_desktop": 1,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "accent-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "166267794276554101": {
       "type": "featured-product",
       "blocks": {
@@ -64,7 +92,7 @@
         "16626779423399be94-7"
       ],
       "settings": {
-        "product": "sally-j-rabbit",
+        "product": "movember-9000",
         "color_scheme": "background-1",
         "secondary_background": true,
         "hide_variants": false,
@@ -409,6 +437,7 @@
     }
   },
   "order": [
+    "e646e052-c3b5-43a5-ad92-7da798d9306e",
     "166267794276554101",
     "1662678860515e6e9e",
     "16620740233ae36dce",

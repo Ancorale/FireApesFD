@@ -226,12 +226,16 @@
     <div >
       <section class="section">
         <figure class="image-container">
-          <img src="https://cdn.shopify.com/s/files/1/0633/1505/0725/files/backGrade5.20.jpg?v=1663463645" loading="eager" alt="Background fire fighter images"  height="{{ image.height }}" width="{{ image.width }}"/>
+          <img src="https://cdn.shopify.com/s/files/1/0633/1505/0725/files/backGrade5.20.webp?v=1669134737" loading="eager" alt="Background fire fighter images"  height="{{ image.height }}" width="{{ image.width }}"/>
         </figure>
       
         <article class="content">
+          
+          {% comment %} {% section 'announcement-bar'%} {% endcomment %}
+          
           {% section 'header' %}
           <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+          
             {{ content_for_layout }}
           </main>
           {% section 'footer' %}
