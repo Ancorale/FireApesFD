@@ -92,12 +92,77 @@
         "16626779423399be94-7"
       ],
       "settings": {
-        "product": "movember-9000",
+        "product": "hold-my-beer",
         "color_scheme": "background-1",
         "secondary_background": true,
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1660086974056ddb09": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"spacer\"> <\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "2a28c56c-14e4-43aa-9f5f-2c3a7093be20": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16272524738789__2a28c56c-14e4-43aa-9f5f-2c3a7093be20-16698484687cc9df1a-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fireman.webp",
+            "title": "GO TO FAFD COLLECTIONS",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/fireapesfd.myshopify.com\/admin\/themes\/134235980005\/editor?previewPath=%2Fcollections"
+          }
+        },
+        "template--16272524738789__2a28c56c-14e4-43aa-9f5f-2c3a7093be20-16698484687cc9df1a-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16272524738789__2a28c56c-14e4-43aa-9f5f-2c3a7093be20-16698484687cc9df1a-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16272524738789__2a28c56c-14e4-43aa-9f5f-2c3a7093be20-16698484687cc9df1a-0",
+        "template--16272524738789__2a28c56c-14e4-43aa-9f5f-2c3a7093be20-16698484687cc9df1a-1",
+        "template--16272524738789__2a28c56c-14e4-43aa-9f5f-2c3a7093be20-16698484687cc9df1a-2"
+      ],
+      "settings": {
+        "title": "CHECK OUT OUR COLLECTIONS",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
         "padding_bottom": 0
       }
     },
@@ -116,7 +181,6 @@
         "16620740235d2be910-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/budda.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -136,7 +200,6 @@
         "16620740235d2be910-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/beezy.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -146,7 +209,6 @@
         "4fc55030-2453-40f1-910c-66348cbddddf": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/deej.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -305,16 +367,6 @@
         "padding_bottom": 0
       }
     },
-    "1660086974056ddb09": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<div class=\"spacer\"> <\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "1661205021dc147d32": {
       "type": "multicolumn",
       "blocks": {
@@ -439,6 +491,8 @@
   "order": [
     "e646e052-c3b5-43a5-ad92-7da798d9306e",
     "166267794276554101",
+    "1660086974056ddb09",
+    "2a28c56c-14e4-43aa-9f5f-2c3a7093be20",
     "1662678860515e6e9e",
     "16620740233ae36dce",
     "1660095493f545b8ba",
@@ -447,7 +501,6 @@
     "1661207370a9f55e07",
     "1660949035f196f74b",
     "16600890857df6d66a",
-    "1660086974056ddb09",
     "1661205021dc147d32",
     "166120618617759ad1"
   ]
