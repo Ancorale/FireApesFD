@@ -3,23 +3,27 @@
 @font-face {
   font-family: LatXE;
   src: url(https://cdn.shopify.com/s/files/1/0633/1505/0725/files/Lateral-XExpandedBlack.otf?v=1653751173);
+  font-display: swap;
 }
 
 /* Lateral-XCompressedBlack */
 @font-face {
   font-family: LatXC;
   src: url(https://cdn.shopify.com/s/files/1/0633/1505/0725/files/Lateral-XCompressedBlack.otf?v=1653751173);
+  font-display: swap;
 }
 
 /* Lateral-StandardBlack */
 @font-face {
   font-family: LatS;
   src: url(https://cdn.shopify.com/s/files/1/0633/1505/0725/files/Lateral-StandardBlack.otf?v=1653751173);
+  font-display: swap;
 }
 
 @font-face {
   font-family: armyThin;
   src: url(https://cdn.shopify.com/s/files/1/0633/1505/0725/files/ArmyThin.woff?v=1647926504);
+  font-display: swap;
 }
 
 :root {
@@ -62,7 +66,11 @@ ul,
 figure {
   margin: 0;
 }
-    
+
+
+/* Parallax 
+applies transformation to the top-left corner of the element,
+scaling it along the y-axis using the difference between 1 and the value of the "--scale" CSS variable. */
 .section {
   transform-origin: left top;
   transform: scaleY(calc(1 - var(--scale)));
@@ -96,6 +104,7 @@ figure {
   width: 100vw;
 }
 
+/* rules for my.js */
 .topper-97 {
   top: -97cm !important;
 }
@@ -147,7 +156,7 @@ figure {
     
 div.card__content > div > h3 > a {
   font-family: LatXE;
-  font-size: 1svw;
+  font-size: 1em;
 }
     
 #shopify-section-footer>footer div.footer__content-top.page-width div div div p a strong,
@@ -431,4 +440,12 @@ div.appstle_tooltip_wrapper,
 
 #shopify-section-template--16636715598053__01f93321-57ae-4448-8006-a093fe791e1c>div>div>slider-component {
   max-width: 40em;
+}
+
+#Slide-template--16272524738789__e9843540-86af-4037-9415-6f0eca319c14-1>div>a>div {
+  height: 26em;
+}
+
+#Slide-template--16272524738789__e9843540-86af-4037-9415-6f0eca319c14-1>div>a>div>div>img {
+  height: 25em
 }
